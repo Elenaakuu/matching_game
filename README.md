@@ -25,7 +25,7 @@ Matching Game (также известная как «Найди пару», «M
 
 1. Победа: Когда все карточки открыты и все пары найдены.
 
-![c]()
+![f](https://github.com/Elenaakuu/matching_game/blob/main/выйгрыш.png)
 
 
 
